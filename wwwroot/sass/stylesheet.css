@@ -1,0 +1,23 @@
+﻿nav {
+  background-color: brown !important; }
+  nav a {
+    color: #0366d6; }
+    nav a .navbar-brand {
+      white-space: normal;
+      text-align: center;
+      word-break: break-all;
+      background-color: brown !important; }
+  nav .btn-primary {
+    color: #fff;
+    border-color: #1861ac;
+    background-color: blue !important; }
+  nav .nav-pills.active,
+  nav .nav-pills .show {
+    color: #fff;
+    border-color: #1861ac;
+    background-color: yellow !important; }
+    nav .nav-pills.active > .nav-link,
+    nav .nav-pills .show > .nav-link {
+      color: #fff;
+      border-color: #1861ac;
+      background-color: red !important; }
